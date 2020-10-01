@@ -7,7 +7,7 @@ Password Generator
 ==================
 ''')
 
-chars = 'abcdefghijklmnopqrstuvwxyz!@£$%^&*().,?0123456789'
+chars = 'abcdefghijklmnopqrstuvwxyzQWERTYUIOPASDFGHJKLZXCVBNM!@£$%^&*().,?0123456789'
 
 number = input('number of passwords?')
 number = int(number)
